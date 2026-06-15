@@ -10,7 +10,7 @@ hideInToc: true
 title: Osmose - Acculturation Data
 ---
 
-![](/Logo_Osmose_Horizontal_VF.png){.w-30.mt--10.mb-5}
+![](/public/Logo_Osmose_Horizontal_VF.png){.w-30.mt--10.mb-5}
 
 ---
 layout: intro
@@ -36,7 +36,7 @@ hideInToc: true
 # Acculturation Data
 
 <div abs-bl m8 flex="~ col gap-2 items-end" text-left op75>
-  <img src="/Logo_Osmose_Horizontal_VF.png" h-10 alt="Vue Fes Japan">
+  <img src="/public/Logo_Osmose_Horizontal_VF.png" h-10 alt="Vue Fes Japan">
 </div>
 
 <div abs-br m8 flex="~ col gap-2 items-end" text-left op75>
