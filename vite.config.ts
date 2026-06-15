@@ -3,6 +3,7 @@ import { defineConfig } from 'vite'
 import '@slidev/cli'
 
 export default defineConfig({
+  base: '/talk-acculturation-data/',
   optimizeDeps: {
     include: [
       'chroma-js',
